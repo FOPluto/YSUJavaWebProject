@@ -11,6 +11,11 @@
     <title>$Title$</title>
   </head>
   <body>
-  $END$
+  <div class="menu-bar">
+
+  </div>
+  <div class="body-div">
+
+  </div>
   </body>
 </html>
