@@ -17,8 +17,8 @@
       <div class="home-body-card">
           <h1>Login</h1>
           <form id="home-login-form">
-              <input type="text" id="login-username" name="username" placeholder="用户名" maxlength="18" minlength="5" required>
-              <input type="password" id="login-password" name="password" placeholder="密码" maxlength="20" minlength="8" required>
+              <input type="text" id="login-username" name="username" placeholder="用户名" required>
+              <input type="password" id="login-password" name="password" placeholder="密码" required>
               <div class="captcha">
                   <input type="text" id="login-captcha" name="captcha" placeholder="输入验证码" required>
                   <img src="https://via.placeholder.com/100x50" alt="验证码">
