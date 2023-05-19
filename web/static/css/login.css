@@ -48,3 +48,23 @@ input[type="submit"] {
     height: 6px;
     float: right;
 }
+
+.login-captcha-image-div:hover {
+    cursor: pointer;
+}
+
+.login-captcha-image-div {
+    height: 50px;
+    width: 100px;
+}
+
+.home-body-card-signup {
+    float: left;
+    font-size: 6px;
+    height: 6px;
+    color: lightgray;
+}
+
+.home-body-card-signup:hover {
+    cursor: pointer;
+}
