@@ -10,7 +10,9 @@
   <head>
     <title>好记记事本</title>
       <%--链接到本地的css和js文件--%>
-    <link type="text/css" rel="stylesheet" href="static/css/login.css">
+        <link type="text/css" rel="stylesheet" href="static/css/login.css">
+      <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/4.6.0/css/bootstrap.min.css">
+      <link rel="stylesheet" href="https://cdn.staticfile.org/font-awesome/5.15.3/css/all.min.css">
   </head>
   <body>
   <div class="home home-login">
@@ -36,3 +38,8 @@
 </html>
 
 <script type="text/javascript" src="static/js/login.js"></script>
+
+
+<script src="https://cdn.staticfile.org/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://cdn.staticfile.org/popper.js/2.9.3/umd/popper.min.js"></script>
+<script src="https://cdn.staticfile.org/twitter-bootstrap/4.6.0/js/bootstrap.min.js"></script>
