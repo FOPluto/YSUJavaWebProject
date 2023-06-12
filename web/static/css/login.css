@@ -9,7 +9,7 @@
     overflow-y: auto;
 }
 
-.home-body-card {
+#login-card {
     width: 400px;
     margin: 14% auto;
     background-color: #ffffff;
@@ -58,13 +58,14 @@ input[type="submit"] {
     width: 100px;
 }
 
-.home-body-card-signup {
+.home-body-signup {
     float: left;
     font-size: 6px;
     height: 6px;
     color: lightgray;
 }
 
-.home-body-card-signup:hover {
+.home-body-signup:hover {
     cursor: pointer;
 }
+

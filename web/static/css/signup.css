@@ -1,0 +1,32 @@
+.home-body-card-signup {
+    display: none;
+}
+
+
+#signup-card {
+    background-color: #4CAF50;
+    width: 400px;
+    margin: 14% auto;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
+    border-radius: 10px;
+    padding: 50px;
+    text-align: center;
+}
+
+.signup-h1-txt {
+    color: #FFFFFF;
+}
+
+#signup-password {
+    color: #FFFFFF;
+}
+
+.signup-submit {
+    background-color: #FFFFFF;
+    color: #4CAF50;
+}
+
+
+.home-body-signup {
+
+}
